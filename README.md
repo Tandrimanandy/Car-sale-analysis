@@ -1,5 +1,5 @@
-# Car-sale-analysis
-# Tata Car Sales Analysis
+# Car-sale-analysis :
+# Tata Car Sales Analysis :
 
 ![Pivot Table](https://img.shields.io/badge/Pivot%20Table-4CAF50?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Charts](https://img.shields.io/badge/Charts-2196F3?style=for-the-badge&logo=googlecharts&logoColor=white)
@@ -11,11 +11,11 @@
 
 An Excel-based sales analytics workbook for Tata Motors vehicle sales, featuring an interactive dashboard, pivot tables, and city/model-level breakdowns built from a 51-record transaction dataset.
 
-## Overview
+## Overview:
 
 This workbook tracks car sales across Tata's model lineup, capturing product cost, taxes, delivery cost, final on-road price, delivery status, and city category (Metro / Tier 1 / Tier 2) for each unit sold. It rolls the raw transaction log up into a dashboard and a set of pivot-table analyses for quick business insights.
 
-## Workbook Structure
+## Workbook Structure:
 
 | Sheet | Description |
 |---|---|
