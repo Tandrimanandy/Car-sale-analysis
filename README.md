@@ -1,5 +1,5 @@
-# Car-sale-analysis :
-# Tata Car Sales Analysis :
+# Car-sale-analysis
+# Tata Car Sales Analysis
 
 ![Pivot Table](https://img.shields.io/badge/Pivot%20Table-4CAF50?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Charts](https://img.shields.io/badge/Charts-2196F3?style=for-the-badge&logo=googlecharts&logoColor=white)
@@ -11,11 +11,33 @@
 
 An Excel-based sales analytics workbook for Tata Motors vehicle sales, featuring an interactive dashboard, pivot tables, and city/model-level breakdowns built from a 51-record transaction dataset.
 
-## Overview:
+## Overview
 
 This workbook tracks car sales across Tata's model lineup, capturing product cost, taxes, delivery cost, final on-road price, delivery status, and city category (Metro / Tier 1 / Tier 2) for each unit sold. It rolls the raw transaction log up into a dashboard and a set of pivot-table analyses for quick business insights.
 
-## Workbook Structure:
+---
+
+## Dashboard Preview
+
+**KPI Tracker — model selector, revenue, cost, and P&L summary**
+
+![TATA Sales Revenue Dashboard with KPI Tracker](screenshots/dashboard-overview.png)
+
+**Revenue by City Category & Model-wise Sales Breakdown**
+
+![Dashboard charts — revenue by city and model](screenshots/dashboard-charts.png)
+
+**Model-wise Sale Report & Product Cost vs. Tax/Delivery Cost**
+
+![Model wise sale report and product cost chart](screenshots/model-sale-report.png)
+
+**City-wise Sale Report, Sale Insights & Delivery Status by Model**
+
+![City wise sale report and sale insights](screenshots/city-sale-insights.png)
+
+---
+
+## Workbook Structure
 
 | Sheet | Description |
 |---|---|
@@ -51,6 +73,7 @@ This workbook tracks car sales across Tata's model lineup, capturing product cos
 - City-category segmentation (Metro / Tier 1 / Tier 2) for cost and volume comparisons
 - Dashboard supports selecting an individual model to view its units sold, revenue, average sale price, and cost breakdown
 - Rolled-up totals for revenue, cost, and realised / unrealised / estimated P&L
+- Quick-glance KPI cards: delivery success rate, pending order value, most sold model, best-performing batch, highest tax & delivery cost, and most cost-efficient model
 
 ## Built With
 
