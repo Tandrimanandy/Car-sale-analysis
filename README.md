@@ -1,3 +1,18 @@
+![Uploading dashboard-charts.png…]()
+<img width="1840" height="543" alt="model-sale-report" src="https://github.com/user-attachments/assets/8fbd2f10-077b-49ac-badb-c880ba472df8" />
+<img width="1871" height="549" alt="city-sale-insights" src="https://github.com/user-attachments/assets/d1ab9031-58df-47b2-8e92-184e9e32c0bd" />
+<img width="1871" height="549" alt="city-sale-insights" src="https://github.com/user-attachments/assets/99d583e6-4ebc-45ab-80bb-f225bbd67e4f" />
+<img width="1869" height="686" alt="dashboard-overview" src="https://github.com/user-attachments/assets/c954dde5-8f1c-4b52-859a-78a93d61508c" />
+<img width="1841" height="657" alt="dashboard-charts" src="https://github.com/user-attachments/assets/88d6c5bb-29f0-4a60-8163-032d8f465533" />
+<img width="1840" height="543" alt="model-sale-report" src="https://github.com/user-attachments/assets/d7e9cb67-bfef-4f54-857e-54606643aec4" />
+<img width="1869" height="686" alt="dashboard-overview" src="https://github.com/user-attachments/assets/240d94d8-0baf-40f8-b9b8-5f14c431a524" />
+<img width="1841" height="657" alt="dashboard-charts" src="https://github.com/user-attachments/assets/9fc94226-ae64-4ddd-ae00-a879c3f1e8df" />
+<img width="1840" height="543" alt="model-sale-report" src="https://github.com/user-attachments/assets/3b4cd8af-3bf7-4759-96fd-d9ddd103cf7a" />
+<img width="1871" height="549" alt="city-sale-insights" src="https://github.com/user-attachments/assets/4e0511be-dc42-43d1-b23e-e21f0ba15dae" />
+<img width="1869" height="686" alt="dashboard-overview" src="https://github.com/user-attachments/assets/7657935d-d819-43d8-a653-c7eeb854a696" />
+<img width="1841" height="657" alt="dashboard-charts" src="https://github.com/user-attachments/assets/7b3a5aa3-4e8f-4a66-bb82-c82c047eec29" />
+<img width="1840" height="543" alt="model-sale-report" src="https://github.com/user-attachments/assets/297840ed-53b6-4476-8715-9e981d3a23e0" />
+<img width="1871" height="549" alt="city-sale-insights" src="https://github.com/user-attachments/assets/ac3dfaa0-5335-48a8-820d-0ac65a9e1e28" />
 # Car-sale-analysis
 # Tata Car Sales Analysis
 
