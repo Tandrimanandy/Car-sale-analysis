@@ -21,7 +21,8 @@ This workbook tracks car sales across Tata's model lineup, capturing product cos
 
 **KPI Tracker — model selector, revenue, cost, and P&L summary**
 
-![TATA Sales Revenue Dashboard with KPI Tracker](screenshots/dashboard-overview.png)
+![TATA Sales Revenue Dashboard with KPI Tracker](<img width="1869" height="686" alt="image" src="https://github.com/user-attachments/assets/7f8b1b1d-4621-41ce-9d5c-cbb8d2e48036" />
+)
 
 **Revenue by City Category & Model-wise Sales Breakdown**
 
