@@ -22,7 +22,7 @@ This workbook tracks car sales across Tata's model lineup, capturing product cos
 
 **KPI Tracker — model selector, revenue, cost, and P&L summary**
 
-![TATA Sales Revenue Dashboard with KPI Tracker](<img width="1841" height="657" alt="dashboard-charts" src="https://github.com/user-attachments/assets/99709702-41ed-4a1d-9d39-b91d7924d5d9" />)
+![TATA Sales Revenue Dashboard with KPI Tracker]<img width="1841" height="657" alt="dashboard-charts" src="https://github.com/user-attachments/assets/99709702-41ed-4a1d-9d39-b91d7924d5d9" />
 
 **Revenue by City Category & Model-wise Sales Breakdown**
 
@@ -30,11 +30,11 @@ This workbook tracks car sales across Tata's model lineup, capturing product cos
 
 **Model-wise Sale Report & Product Cost vs. Tax/Delivery Cost**
 
-![Model wise sale report and product cost chart](<img width="1871" height="549" alt="city-sale-insights" src="https://github.com/user-attachments/assets/76ea8e91-70af-49e2-83c3-d4b23a72c1d2" />)
+![Model wise sale report and product cost chart]<img width="1871" height="549" alt="city-sale-insights" src="https://github.com/user-attachments/assets/76ea8e91-70af-49e2-83c3-d4b23a72c1d2" />
 
 **City-wise Sale Report, Sale Insights & Delivery Status by Model**
 
-![City wise sale report and sale insights](<img width="1869" height="686" alt="dashboard-overview" src="https://github.com/user-attachments/assets/f89eab6a-14aa-46b9-a666-882b614e1a10" />)
+![City wise sale report and sale insights]<img width="1869" height="686" alt="dashboard-overview" src="https://github.com/user-attachments/assets/f89eab6a-14aa-46b9-a666-882b614e1a10" />
 
 ---
 
